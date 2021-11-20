@@ -1,0 +1,3 @@
+$str=78.57;
+$num=(datatype)$str;
+var_dump($num);

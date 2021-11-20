@@ -1,0 +1,9 @@
+THERE ARE THREE types ofvariables
+local variable
+global variable
+static variable in php
+?////////
+three types of strings:-
+single quotation
+double quotation
+document syntax(here and now).
